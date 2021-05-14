@@ -1,7 +1,7 @@
 # Events-2021
 ## Student Undergraduate Research Forum
 ***Date:*** Jan 1st to March 31st, 2021      
-<img src="./posters/surf.jpg" width="600px" />
+<img src="./posters/surf.jpg" width="600px" />    
 <b>Poster 1.</b> SURF     
 <b><i>Description:</i></b> <br>  
 SURF program helped the students to work with distinguished faculty members and
@@ -20,6 +20,7 @@ Sessions delivered:
 
 ## Machine Learning BootCamp
 ***Date:*** May 9th to June 20th, 2021   
+<img src="./posters/mlboot.jpg" width="600px" />    
 ***Description:***      
 ML Bootcamp is a virtual 6-week workshop series meant for students who want
 to get started with machine learning and create cool projects by applying it with Python.      
