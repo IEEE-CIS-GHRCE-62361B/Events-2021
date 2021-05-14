@@ -20,7 +20,8 @@ Sessions delivered:
 
 ## Machine Learning BootCamp
 ***Date:*** May 9th to June 20th, 2021   
-<img src="./posters/mlboot.jpg" width="600px" />    
+<img src="./posters/mlboot.jpeg" width="600px" />    
+**Poster 2.** ML BootCamp     
 ***Description:***      
 ML Bootcamp is a virtual 6-week workshop series meant for students who want
 to get started with machine learning and create cool projects by applying it with Python.      
